@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651953735 source:g:\all semester\semester 12 (spring 2022)\cse103 structured programming\project\scalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

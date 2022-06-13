@@ -1,0 +1,27 @@
+
+Sin(x) result:
+1.0000
+
+
+Cos(x) result:
+1.0000
+
+
+Polynomial addition result:
+
+First polynomial is:x^3+2x^3+2x^2
+Second polynomial is:2x^3+4x^2+2x^1
+Sum of the two polynomials is: 3x^3+2x^3+6x^2+2x^1
+Polynomial multiplication result:
+
+ First Polynomial: 2x^3 + 2x^3 + 2x^5 
+ Second Polynomial: 2x + 6x^3 
+The Product Of Two Polynomials Is: 4x^4 + 12x^6 + 4x^4 + 12x^6 + 4x^6 + 12x^8 
+ Permutation and Combination result:
+5C3 is 10
+5P3 is 60
+
+
+Faction result:
+Factorial of this number is: 2
+
