@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544190536 source:d:\projects\cse\extras\lottery project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
